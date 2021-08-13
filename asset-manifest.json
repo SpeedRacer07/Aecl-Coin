@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/aecl-coin/static/js/main.2ec65afe.chunk.js",
+    "main.js.map": "/aecl-coin/static/js/main.2ec65afe.chunk.js.map",
+    "runtime-main.js": "/aecl-coin/static/js/runtime-main.ad39d9fa.js",
+    "runtime-main.js.map": "/aecl-coin/static/js/runtime-main.ad39d9fa.js.map",
+    "static/js/2.a50ecd4f.chunk.js": "/aecl-coin/static/js/2.a50ecd4f.chunk.js",
+    "static/js/2.a50ecd4f.chunk.js.map": "/aecl-coin/static/js/2.a50ecd4f.chunk.js.map",
+    "index.html": "/aecl-coin/index.html",
+    "static/js/2.a50ecd4f.chunk.js.LICENSE.txt": "/aecl-coin/static/js/2.a50ecd4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad39d9fa.js",
+    "static/js/2.a50ecd4f.chunk.js",
+    "static/js/main.2ec65afe.chunk.js"
+  ]
+}
